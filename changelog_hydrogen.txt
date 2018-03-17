@@ -7,3 +7,5 @@ Mi Max(hydrogen)|Maintainer: Dungphp
 
 * Refer ROM changelog
 
+- CPU teaks by Zolla lll
+- exFAT fixed
