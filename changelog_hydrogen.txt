@@ -1,0 +1,9 @@
+Device Specific Changes:
+Mi Max(hydrogen)|Maintainer: Dungphp
+
+ ==============
+  crDroid v4.0 - Feb 25, 2018
+ ==============
+
+* Refer ROM changelog
+
