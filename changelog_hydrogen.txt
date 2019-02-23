@@ -1,11 +1,8 @@
 Device Specific Changes:
-Mi Max(hydrogen)|Maintainer: Dungphp
+Mi Max(hydrogen/helium)|Maintainer: Dungphp
 
  ==============
-  crDroid v4.0 - Feb 25, 2018
+  crDroid v5.1 - Feb 25, 2018
  ==============
 
 * Refer ROM changelog
-
-- CPU teaks by Zolla lll
-- exFAT fixed
